@@ -1,0 +1,122 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  
+}
+body {
+  background-color: whitesmoke;
+}
+.result {
+  background-color: hsl(241, 81%, 54%);
+  max-width: 280px;
+  max-height: 390px;
+  text-align: center;
+  color: hsl(0, 0%, 100%);
+  border-radius: 20px;
+  border-style: solid;
+  padding: 35px;
+}
+.circle {
+  background-color: hsl(234, 85%, 45%);
+  border-radius: 50%;
+  width: 140px;
+  height: 140px;
+  padding: 23px;
+  margin: 30px;
+  font-size: 2;
+  font-weight: 500;
+}
+h1 {
+  font-size: 55px;
+}
+
+.under-cir {
+  font-size: 15px;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.summary {
+  background-color: white;
+  width: 280px;
+  height: 370px;
+  justify-content: space-between;
+
+  border-style: rgb(145, 142, 142);
+  padding: 15px;
+}
+.sum {
+  padding: 10px 30px;
+}
+.reaction {
+  color: hsl(0, 100%, 67%);
+}
+.memory {
+  color: hsl(39, 100%, 56%);
+}
+.verbal {
+  color: hsl(166, 100%, 37%);
+}
+.visual {
+  color: hsl(234, 85%, 45%);
+}
+.flex {
+  display: flex;
+  margin: 1em 0.5em;
+
+  align-items: center;
+}
+.x1 {
+  border: solid 2px rgba(128, 128, 128, 0.158);
+
+  background-color: rgba(255, 0, 0, 0.13);
+  padding: 6px 30px;
+  justify-content: space-between;
+  align-items: center;
+}
+.x2 {
+  background-color: rgba(255, 255, 0, 0.151);
+  border: solid 2px rgba(128, 128, 128, 0.158);
+  justify-content: space-between;
+  align-items: center;
+  padding: 6px 30px;
+  
+}
+
+.x3 {
+  border: solid 2px rgba(128, 128, 128, 0.158);
+  background-color: rgba(0, 214, 0, 0.137);
+  justify-content: space-between;
+  align-items: center;
+  padding: 6px 30px;
+}
+.x4 {
+  border: solid 2px rgba(128, 128, 128, 0.158);
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgba(0, 0, 255, 0.137);
+  padding: 6px 30px;
+}
+.y4 {
+}
+
+.continue {
+  color: white;
+  border: solid 2px rgba(128, 128, 128, 0.158);
+  border-radius: 25px;
+  background-color: hsl(224, 30%, 27%);
+  padding: 10px 95px;
+}
+.component{
+  justify-content: center;
+  margin-top: 10%;
+  
+  
+
+}
