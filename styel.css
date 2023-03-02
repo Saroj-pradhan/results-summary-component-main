@@ -50,6 +50,7 @@ h1 {
 
   border-style: rgb(145, 142, 142);
   padding: 15px;
+  
 }
 .sum {
   padding: 10px 30px;
@@ -74,18 +75,18 @@ h1 {
 }
 .x1 {
   border: solid 2px rgba(128, 128, 128, 0.158);
-
   background-color: rgba(255, 0, 0, 0.13);
   padding: 6px 30px;
   justify-content: space-between;
   align-items: center;
 }
 .x2 {
-  background-color: rgba(255, 255, 0, 0.151);
+  background-color: rgba(255, 255, 0, 0.151) ;
   border: solid 2px rgba(128, 128, 128, 0.158);
   justify-content: space-between;
   align-items: center;
   padding: 6px 30px;
+  
   
 }
 
@@ -103,8 +104,7 @@ h1 {
   background-color: rgba(0, 0, 255, 0.137);
   padding: 6px 30px;
 }
-.y4 {
-}
+
 
 .continue {
   color: white;
@@ -113,10 +113,9 @@ h1 {
   background-color: hsl(224, 30%, 27%);
   padding: 10px 95px;
 }
+
 .component{
   justify-content: center;
-  margin-top: 10%;
-  
-  
+  margin-top: 10%;  
 
 }
